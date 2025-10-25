@@ -42,13 +42,46 @@
 
 ---
 
-### 🌐 Open Source Highlights:
-- meshery/meshery.io – [PR #2361: Shape Builder Extension Blog Post](https://github.com/meshery/meshery.io/pull/2362)
-- HarshS16/Civix – [PR #470: FAQ Styling Enhancements](https://github.com/HarshS16/Civix/pull/470)
-- Ayushjhawar8/Flavor-ai – [PR #60: Added Issue Templates](https://github.com/Ayushjhawar8/Flavor-ai/pull/60)
-- omroy07/AgriTech – [PR #253: Back Button Bug Fix](https://github.com/omroy07/AgriTech/pull/253)
+## 🏅 Hacktoberfest 2025 Contributor  
+<br>
+<div align="center">
+ <a href="https://cloud.layer5.io/user/b7433816-de2b-4817-b816-f71ed22ea464?tab=badges&badge=hacktoberfest25">
+    <img width="250px" height="360px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor"/>
+  </a>
+</div>
+<br>
+
 
 ---
+
+
+## 🎖️ Holopin Badges    
+<br>
+<p align="center">
+ 
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgllkjba008kjl04zyi2bnal" target="_blank">
+    <img src="images/badges/lvl1-human.webp" width="120" height="120" alt="Level 1 Human Badge" style="margin:10px;" hspace="8">
+  </a>
+ 
+ <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgu4m9bd0055jp04etw75gs6" target="_blank">
+    <img src="images/badges/lvl2-human.webp" width="120" height="120" alt="Level 2 Human Badge" style="margin:10px;" hspace="8">
+  </a>
+ 
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh2poa400014l704y9ot5krs" target="_blank">
+    <img src="images/badges/lvl3-human.webp" width="120" height="120" alt="Level 3 Human Badge" style="margin:10px;" hspace="8">
+  </a>
+  
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh452adw002ak104lh5s5kwp" target="_blank">
+    <img src="images/badges/lvl4-human.webp" width="120" height="120" alt="Level 4 Human Badge" style="margin:10px;" hspace="8">
+  </a>
+
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh6as3o0000xl104unnimp75" target="_blank">
+    <img src="images/badges/lvl5-human.webp" width="120" height="120" alt="Level 5 Human Badge" style="margin:10px;" hspace="8">
+  </a>
+
+</p>
+ 
+</div>
 
 ### 🤝 Connect with Me:
 <p align="center">
