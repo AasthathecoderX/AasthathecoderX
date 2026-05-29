@@ -35,12 +35,7 @@
 
 ---
 
-### 🌟 Highlights:
-- 🔭 I’m currently working on **A Website Development**
-- 🌱 I’m currently learning **AI ML and Web3**
-- 📫 How to reach me: **bhat.aasthaa@gmail.com**
 
----
 
 ## 🏅 Hacktoberfest 2025 Contributor  
 <br>
