@@ -1,41 +1,116 @@
-<h1 align="center">Hi 👋, Aastha Bhat here</h1>
-<h3 align="center">A passionate developer eager to learn upcoming new tech 🚀</h3>
+<h1 align="center">Hi 👋 I'm Aastha Bhat</h1>
+
+<h3 align="center">
+Full-Stack & Backend Developer • Open Source Contributor • AI & Cloud Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Machine+Learning+Engineer;Open-Source+Contributor;Tech+Explorer;Always+Learning+%F0%9F%8C%8C" alt="Typing SVG" />
+Building scalable web applications, cloud-native systems, and AI-powered solutions.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Backend+Developer;Cloud-Native+Applications;FastAPI+%7C+React+%7C+Kubernetes;Machine+Learning+Projects;Layer5+Open+Source+Contributor" alt="Typing SVG"/>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" /> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" /> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Web Development" /> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/6e40c9/github.png" alt="GitHub" /> </a>
-  <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /> </a>
-  <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /> </a>
-  <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/active-directory-domain-services-overview" target="_blank"> <img src="https://img.icons8.com/color/48/000000/active-directory.png" alt="Active Directory" /> </a>
-  <a href="https://en.wikipedia.org/wiki/Data_visualization" target="_blank"> <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Data Visualization" /> </a>
-</p>
+## 👩‍💻 About Me
+
+- 🎓 B.E. Information Science & Engineering @ Dayananda Sagar College of Engineering (CGPA: **9.6**)
+- 💼 Completed **5 software engineering internships**
+- 🌱 Interested in **Backend Engineering, Cloud Computing, Distributed Systems, and Applied AI**
+- 🤝 Active **Layer5 Open Source Contributor**
+- 🚀 Currently built **PriceLens**, a cloud-native microservices platform for e-commerce price tracking and forecasting
+- 💻 Solving problems on **LeetCode** while strengthening DSA fundamentals
 
 ---
 
-### 🔥 Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AasthathecoderX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AasthathecoderX&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthathecoderX&layout=compact&theme=radical" alt="TopLanguages"/>
-</p>
+## 🚀 Featured Projects
+
+### 🔹 PriceLens
+Cloud-native microservices platform built with **FastAPI, React, Kubernetes, Docker, PostgreSQL, Redis, RabbitMQ, and Celery** to track, compare, and forecast e-commerce product prices.
+
+### 🔹 LegalBERT Contract NLP
+Legal document analysis platform using **LegalBERT**, NLP, and Flask to classify contract clauses and extract legal entities.
+
+### 🔹 SuryaVeda
+AI-powered platform for household electricity consumption and solar energy prediction using machine learning.
+
+### 🔹 College Timetable Generator
+Automates clash-free timetable generation using optimization techniques to reduce manual scheduling effort.
 
 ---
 
+## 🛠️ Tech Stack
 
+### Languages
+Python • Java • JavaScript • C • C++
+
+### Frontend
+React • HTML • CSS
+
+### Backend
+FastAPI • Flask • Express • Node.js
+
+### Databases
+PostgreSQL • MySQL • MongoDB • Redis
+
+### Cloud & DevOps
+Docker • Kubernetes • RabbitMQ • Celery • Git • GitHub
+
+### AI / ML
+scikit-learn • NLP • LegalBERT • Transformers
+
+---
+
+## 🌟 Open Source
+
+- Layer5 Contributor
+- Hacktoberfest 2025 Contributor
+- Contributed to Meshery ecosystem
+- 400+ GitHub contributions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AasthathecoderX&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AasthathecoderX&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthathecoderX&layout=compact&theme=radical" />
+</p>
+
+---
+## 💼 Internship Experience
+
+### Software Development
+- **Software Developer Intern — SwipeGen**
+  - Built and integrated an automated email workflow for intern onboarding and training communication.
+
+### Artificial Intelligence
+- **AI & ML Intern — Edunet–IBM**
+  - Developed Paridhana, an AI-powered fashion recommendation platform using generative AI.
+
+- **AI & ML Intern — Edunet–Shell**
+  - Built SuryaVeda for electricity consumption prediction and solar potential estimation.
+
+### Additional Experience
+- **AI & Prompt Engineering Intern — VaultofCodes**
+  - Designed prompt workflows and evaluated LLM outputs for AI-driven applications.
+
+- **Frontend Developer Intern — eVidhyalaya**
+  - Developed responsive interfaces for an online learning platform.
+
+---
+
+## 🏅 Community
+
+- 🏆 Hacktoberfest 2025 Contributor
+- 🎖️ Holopin Badge Collector
+- 🌍 Open Source Contributor
 
 ## 🏅 Hacktoberfest 2025 Contributor  
 <br>
@@ -47,7 +122,6 @@
 <br>
 
 
----
 
 
 ## 🎖️ Holopin Badges    
@@ -78,12 +152,30 @@
  
 </div>
 
-### 🤝 Connect with Me:
+---
+
+## 🤝 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/aastha-bhat-b66870308/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="bhat.aasthaa@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
-  </a>
+
+<a href="https://www.linkedin.com/in/aastha-bhat-b66870308" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:bhat.aasthaa@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
+</a>
+
+<a href="https://aasthathecoderx.github.io/" target="_blank">
+  <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio"/>
+</a>
+
+<a href="https://github.com/AasthathecoderX" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
+</a>
+
+<a href="https://leetcode.com/u/Aastha_Bhat/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+</a>
+
 </p>
