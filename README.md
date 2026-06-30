@@ -73,15 +73,19 @@ scikit-learn • NLP • LegalBERT • Transformers
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AasthathecoderX&theme=radical" />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=AasthathecoderX&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+  <img
+    width="35%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthathecoderX&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthathecoderX&layout=compact&theme=radical" />
-</p>
 
 ---
 ## 💼 Internship Experience
