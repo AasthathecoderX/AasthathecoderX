@@ -74,18 +74,28 @@ scikit-learn • NLP • LegalBERT • Transformers
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=AasthathecoderX&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-  <img
-    width="35%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthathecoderX&layout=compact&theme=radical"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="100%" src="https://raw.githubusercontent.com/AasthathecoderX/AasthathecoderX/main/profile-summary-card-output/radical/0-profile-details.svg" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="49%" src="https://raw.githubusercontent.com/AasthathecoderX/AasthathecoderX/main/profile-summary-card-output/radical/1-repos-per-language.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="49%" src="https://raw.githubusercontent.com/AasthathecoderX/AasthathecoderX/main/profile-summary-card-output/radical/2-most-commit-language.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="49%" src="https://raw.githubusercontent.com/AasthathecoderX/AasthathecoderX/main/profile-summary-card-output/radical/3-stats.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="49%" src="https://raw.githubusercontent.com/AasthathecoderX/AasthathecoderX/main/profile-summary-card-output/radical/4-productive-time.svg" />
+  </a>
+</p>
 
 ---
 ## 💼 Internship Experience
